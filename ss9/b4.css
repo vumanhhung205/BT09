@@ -1,0 +1,14 @@
+div{
+    text-align: center;
+    background-color: gainsboro;
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+}
+div:hover{
+    background-color:gray;
+}
+h1{
+    color:black;
+    padding: 50px;
+}
